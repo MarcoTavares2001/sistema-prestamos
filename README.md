@@ -37,7 +37,7 @@ Encargado de crear las bóvedas, supervisor y agente. Siempre tiene el control d
 ### Instalación
 Ejecutar los siguientes comandos en orden
 ```cmd
-git clone https://github.com/leifermendez/sistema-prestamos.git
+git clone https://github.com/MarcoTavares2001/sistema-prestamos.git
 ```
 ```cmd
 cd sistema-prestamos
@@ -71,7 +71,7 @@ Optimiza el funcionamiento de las fechas estableciendo tu zona horaria [Ver zona
 __config/app.php__
 ```php
     ....
-    'timezone' => 'Europe/Madrid',
+    'timezone' => 'America/Mexico_City',
     ....
 ```
 
